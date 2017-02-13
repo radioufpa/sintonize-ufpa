@@ -1,0 +1,18 @@
+.color-1 { background-color: #376b2e; }
+.color-2 { background-color: #064384; }
+.color-3 { background-color: rgba(55, 107, 46, 0.8); }
+.color-4 { background-color: rgba(170, 170, 170, 0.8); }
+
+.text-1 { color: #376b2e; }
+.text-2 { color: #064384; }
+
+.img-1 { background-image: url("_images/ufpa-belem.jpg"); }
+.img-2 { background-image: url("_images/ufpa.jpg"); }
+.img-3 { background-image: url("_images/ufpa-3.jpg"); }
+
+/* Cards */
+
+.card h3 { color: #376b2e; }
+.card div:after { background-color: rgba(55, 107, 46, 0.5); }
+.card div:before { background-color: #376b2e; }
+.card a:hover div:after, .card a:focus div:after { background-color: rgba(6, 67, 132, 0.5); }
